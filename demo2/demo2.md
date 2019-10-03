@@ -1,4 +1,4 @@
-# .NET Core 3 - Blazor
+# Demo2 - .NET Core 3 - Blazor
 
 ## WebAssemblyについて
 
